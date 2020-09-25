@@ -6,6 +6,7 @@
 #include <QPainter>
 #include <QTimer>
 #include "mobility/car.h"
+#include "world/world.h"
 
 
 QT_BEGIN_NAMESPACE
